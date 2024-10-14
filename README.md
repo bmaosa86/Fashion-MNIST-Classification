@@ -26,5 +26,5 @@ The project requires the following libraries and tools:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repository/fashion-mnist-cnn.git
+   git clone https://github.com/bmaosa86/Fashion-MNIST-Classification
    cd fashion-mnist-cnn
